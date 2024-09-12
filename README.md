@@ -1,4 +1,4 @@
-# hg_a_charlie
+# hg_1_charlie | Charlie
 
 ## Tabla de Integrante
 
